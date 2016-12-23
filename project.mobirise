@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "index2.html",
     "versionFirst": "3.6.1",
     "uniqCompNum": 48,
     "versionPublish": "3.10.3",
@@ -3837,7 +3837,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/pamme-1400x1970-22.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pamme-1400x1970-20.jpg",
               "link": "",
               "alt": "pamme youance, chanteuse",
               "title": "pamme youance, chanteuse",
